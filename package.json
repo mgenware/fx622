@@ -1,6 +1,6 @@
 {
   "name": "fx622",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Crop iPhone screenshots",
   "type": "module",
   "exports": "./dist/main.js",
