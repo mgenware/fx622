@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/mgenware/fx622"
   },
+  "bin": {
+    "fx622": "./dist/main.js"
+  },
   "license": "BSD-3-Clause",
   "scripts": {
     "test": "daizong build"
